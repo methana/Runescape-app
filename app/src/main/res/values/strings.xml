@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RuneFlip</string>
+    <string name="title_activity_list">Margins</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="about_text">This app helps to make some profit out of buying-selling
+        items in grand exchange. Our prices is always up to date. Please never undercut
+        by huge amounts, because you will  reduce others profits and in a long run yours
+        as well</string>
+    <string name="margins">Margins</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="visit">Visit our page</string>
+
+    <!--Java strings-->
+    <string name="no_internet">No Internet Connection</string>
+</resources>
